@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJS typed component library starter
+
+This project template uses Next.js for a web server, TypeScript for static typing, Storybook for building the component library, and Tailwind CSS for styling.
 
 ## Getting Started
 
